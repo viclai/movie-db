@@ -1,0 +1,51 @@
+#titleImg {
+    width: 166px;
+    height: 59px;
+}
+
+#searchIn {
+    width: 500px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#searchButton {
+    background-color: gold;
+    font-weight: bold;
+    height: 40px;
+    cursor: pointer;
+}
+
+.flexbox-container {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+#topBar {
+    background-color: #FFFFCC;
+}
+
+#searchBar {
+    position: relative;
+    top: 8px;
+    left: 5px;
+}
+
+#menu {
+    padding-bottom: 5px;
+}
+
+.imgButton {
+    width: 140px;
+    height: 95px;
+    cursor: pointer;
+}
+
+.imgButton:hover {
+    /*border: solid 1px gold;*/
+    background-color: gold;
+}

@@ -1,0 +1,53 @@
+datalist {
+    display: none;
+}
+
+option {
+    font-weight: bold;
+}
+
+input::-webkit-calendar-picker-indicator {
+    display: none; /* Remove dropdown arrow of datalist */
+}
+
+#contentContain {
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+
+#searchForm {
+    text-align: center;
+}
+
+#searchIn {
+    width: 500px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#searchButton {
+    background-color: gold;
+    font-weight: bold;
+    height: 30px;
+    cursor: pointer;
+}
+
+.flexbox-container {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+#menu {
+    position: relative;
+}
+
+.imgButton {
+    width: 80px;
+    height: 54px;
+    cursor: pointer;
+}

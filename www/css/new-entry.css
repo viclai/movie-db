@@ -1,0 +1,69 @@
+#formInfo {
+    border-radius: 10px;
+    padding: 40px 40px;
+    border: solid 1px gold;
+    width: 40%;
+    border-spacing: 20px;
+}
+
+#submissionStat {
+    padding: 40px 40px;
+    height: auto;
+    width: 60%;
+    font-size: 30px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#errorHead, #succHead {
+    font-size: 35px;
+}
+
+#errorHead {
+    color: red;
+}
+
+#succHead {
+    color: blue;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.switch {
+    border-radius: 10px;
+    padding: 10px 10px;
+    background-color: gold;
+    color: blue;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.ast {
+    color: red;
+}
+
+#errfirst, #errlast, #errdir, #errmov, #erract, #errrate {
+    color: red;
+    font-weight: bold;
+}
+
+.newAdd {
+    border-radius: 10px;
+    padding: 5px 10px;
+    background-color: gray;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
+
+tr {
+    height: 50px;
+}
+
+#genreTab tr {
+    height: 30px;
+}
