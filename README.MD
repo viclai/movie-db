@@ -6,6 +6,8 @@
 which provides an interface for users to search for movie information. This
 project was created for educational purposes.
 
+![Website](hub/moviedb.gif "MovieDB")
+
 ## Usage
 
 Because this project was developed on a virtual machine, there is currently no
